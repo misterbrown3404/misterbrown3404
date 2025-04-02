@@ -1,3 +1,22 @@
+🔥 
+Flutter & Android Developer | Mobile App Architect | Open-Source Contributor
+
+Hi, I'm Jibril Abdulsalam A passionate mobile developer with expertise in building high-performance, user-friendly applications using Flutter and native Android (Java). I specialize in creating apps with beautiful UIs, robust architectures, and seamless platform integrations.
+
+What I Bring to the Table:
+
+🚀 3+ years experience developing production-ready mobile applications
+
+💡 Deep expertise in Flutter framework and Dart programming
+
+🔧 Strong background in native Android development (Java)
+
+⚡ Experience with Firebase, REST APIs, and state management solutions
+
+🔒 Knowledge of app security best practices and performance optimization
+
+🛠️ CI/CD pipelines for mobile app deployment
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/annurdevelopers) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morningstar_developers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gdghg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/morningstar_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulsalamjibril5@gmail.com) 
